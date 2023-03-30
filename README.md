@@ -1,4 +1,4 @@
-# exouss
+# exous
 
 A new Flutter project.
 
