@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "437406089665",
+    "project_id": "exous-39536",
+    "storage_bucket": "exous-39536.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437406089665:android:cd83cb72a646628ea02f40",
+        "android_client_info": {
+          "package_name": "com.example.exouss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437406089665-tiu4orc5om902saduc4lf24saej8edbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.exouss",
+            "certificate_hash": "dcb8fff90464455c4733f3f0489fe3ac714446a9"
+          }
+        },
+        {
+          "client_id": "437406089665-ucbub5ttqknmpapca56s9rdnsajilego.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCeFB7Stv4H_Ix5YlJSk5-db9wKezxkIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437406089665-ucbub5ttqknmpapca56s9rdnsajilego.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
